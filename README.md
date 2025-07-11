@@ -46,6 +46,7 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge" />
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE Badge" />
 </p>
+
 ---
 
 ### 📈 GitHub Stats
@@ -54,6 +55,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=heelR3&show_icons=true&theme=react&hide=contribs&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=heelR3&theme=react" />
 </div>
+
 ---
 
 ### 🔍 I’m Currently Looking For
