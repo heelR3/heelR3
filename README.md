@@ -58,6 +58,14 @@
 
 ---
 
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/heel_r3?ext=contest&theme=light" alt="LeetCode Stats" />
+</p>
+
+---
+
 ### 🔍 I’m Currently Looking For
 
 - 📌 Full-time roles in **Full Stack Development** / **IoT Integration**
